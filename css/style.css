@@ -252,7 +252,7 @@ header ul.nav li ul li a {
 
 .navbar .nav a:hover {
 	background:none;
-	color: #14A085 !important;
+	color: #35194F !important;
 }
 
 .navbar .nav > .active > a,.navbar .nav > .active > a:hover {
@@ -292,7 +292,7 @@ header ul.nav li ul li ul {
   content:none;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-color: #14A085;
+color: #35194F;
 }
 
 
@@ -451,7 +451,7 @@ bottom: -30px;
 }
 .item_introtext p {
     font-size: 20px !important;
-    color: #1C1D21;
+    color: #35194F;
     font-weight: bold;
 }
 
@@ -573,7 +573,7 @@ section.callaction {
 ==================================== */
 
 #inner-headline{
-	background: #14A085;
+	background: #35194F;
 	position:relative;
 	margin:0;
 	padding:0;
@@ -797,7 +797,7 @@ form#commentform textarea {
 	height: 91%;
 	opacity: 0.50;
 	filter: alpha(opacity=80);
-	background: #14A085;
+	background: #35194F;
 }
 
 .item-thumbs .hover-wrap .overlay-img-thumb {
@@ -833,11 +833,13 @@ margin-right: 15px;
 ul.portfolio-categ li a{
 	display:block;
 	padding: 8px 20px;
-	color: #14A085;
+	color: #35194F;
 }
 ul.portfolio-categ li.active{
-border: 1px solid #D7D8D6;
-background-color: #EAEAEA;
+
+border: 1px solid #D7D8D6;
+
+background-color: #EAEAEA;
 }
 ul.portfolio-categ li.active a:hover, ul.portfolio-categ li a:hover,ul.portfolio-categ li a:focus,ul.portfolio-categ li a:active {
 	text-decoration:none;
@@ -1002,7 +1004,7 @@ ul.link-list li{
 	list-style:none;
 }
 footer{
-background: #14A085;
+background: #35194F;
 }
 footer ul.link-list li a{
 	color: #FFFFFF;
@@ -1246,7 +1248,7 @@ background: #F9F9F9;
 .pricing-box-item .pricing-terms  h6 {
 	font-style:italic;
 	margin-top:10px;
-	color: #14A085;
+	color: #35194F;
 	font-size: 22px;
 	font-family:'Noto Serif', serif;
 }
